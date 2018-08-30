@@ -1,0 +1,1 @@
+Here for GLM we have taken the prices of some popular cryptocurrencies such as bitcoin, litecoin, ethereum, monero, neo, quantum and ripple. As we know that crypto currencies are likely to follow the trends of other cryptos. Demonstration of the cryptos using a simple GLM and feature transformation.
